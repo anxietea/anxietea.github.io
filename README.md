@@ -1,2 +1,3 @@
-# anxietea.github.io
-GWC final project website
+# AnxieTea
+
+#Our Final Project for GWC
