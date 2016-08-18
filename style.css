@@ -24,8 +24,8 @@ a.squiffy-header-link
 /*WORKING HERE*/
 div#squiffy-container 
 {
-    max-width: 100%; /*1000px*/
-    margin-left: auto; /*55px*/
+    max-width: 90%; /*1000px*/
+    margin-left: -5%; /*55px*/
     margin-right: auto;
 	background-color: /*#808080*/ black;
 	border: 2px solid #800000;
