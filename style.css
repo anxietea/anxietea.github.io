@@ -92,11 +92,13 @@ h3
 }
 
 /*NAV BAR*/ 
+/*WORKING HERE*/
+
 .nav-tabs > li > a{
 	margin-top:-.525cm;
 	border: medium none;
 	color: white;
-	font-size: 16px;
+	font-size: 115%; /*16px*/
 
 }
 .nav-tabs > li> a:focus{
