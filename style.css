@@ -6,14 +6,14 @@ a.squiffy-link
     color: /*#800000*/ red;
     cursor: pointer;
 }
-
+/*CHECK*/
 a.squiffy-link.disabled
 {
     text-decoration: inherit;
     color: inherit !important;
     cursor: inherit;
 }
-
+/*CHECK*/
 a.squiffy-header-link
 {
     text-decoration: underline;
@@ -33,17 +33,17 @@ div#squiffy-container
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	color: white
 }
-/*WORKING HERE*/
+/*CHECK*/
 div#squiffy-header      //Restart button
 {
     font-size: 100%; /*14px*/
 	color: white;
     text-align: right;
 }
-
+/*WORKING HERE*/
 div#squiffy
 {
-    font-size: 18px;
+    font-size: 125%; /*18px*/
 }
 
 hr {
