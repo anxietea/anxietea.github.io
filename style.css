@@ -99,6 +99,7 @@ h3
 	border: medium none;
 	color: white;
 	font-size: 115%; /*16px*/
+	width:100%;
 
 }
 .nav-tabs > li> a:focus{
