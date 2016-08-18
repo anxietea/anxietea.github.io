@@ -133,7 +133,7 @@ iframe
 	border-radius: 7px;
 }
 p{
-	font-size: 18px;
+	font-size: 125%; /*18px*/
 	
 }
 img{
