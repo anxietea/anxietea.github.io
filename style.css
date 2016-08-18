@@ -66,6 +66,8 @@ hr {
 
 /*HTML ITSELF*/
 /* &nbsp; */
+
+/*WORKING HERE*/
 body
 {
 	margin-left: auto;
@@ -80,6 +82,7 @@ h2
 h3
 {
 	color:#003366;
+	font-size:175%;
 }
 .well
 {
