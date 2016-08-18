@@ -1,5 +1,10 @@
 /*TEXT ADVENTURE*/
 /*CHECK*/
+@media (max-width: 991px) { 
+ .nav-tabs > li {
+    float:none;
+ }
+}
 a.squiffy-link
 {
     text-decoration: underline;
